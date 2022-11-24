@@ -1,0 +1,2 @@
+# ArduinoCodeWhenatSchool
+#包括了原先在学校做比赛时的Arduino源码以及一套人流量统计源码。
